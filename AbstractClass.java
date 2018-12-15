@@ -56,3 +56,6 @@ class AbstractClass
         c.display();
     }
 }
+
+// Just a comment
+// Another comment
