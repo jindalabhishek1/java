@@ -58,4 +58,3 @@ class AbstractClass
 }
 
 // Just a comment
-// Another comment
