@@ -50,6 +50,8 @@ class AbstractClass
         obj1.calculate(x);
         obj1.display();
         Cube c = new Cube();
+        // not possible coz Square is an AbstractClass.
+        // Cube c = new Sqare();
         c.calculate(x);
         c.display();
     }

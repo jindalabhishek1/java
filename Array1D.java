@@ -2,6 +2,8 @@ import java.util.Scanner;
 class Array1D
 {
     int size;
+    // This doesn't work.
+    // int *arr;
     int arr[];
     Array1D(int x)
     {
